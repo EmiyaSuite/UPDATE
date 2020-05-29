@@ -1,4 +1,10 @@
-# May 29, 2019
+# May 29, 2020 (2)
+ - Website address is now https://dodo.ij.rs/
+ - Old website will be terminated as soon as possible.
+ - https://emibo.vxz.me - terminate soon
+ - https://emiya.vxz.me/ - redirect to new address 
+
+# May 29, 2020
 
 ## Website title changed
  - As site is stablized, Codename 'Emiya' will not be use anymore. Please welcome 'DodoSeki'.
