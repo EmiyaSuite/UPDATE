@@ -1,3 +1,6 @@
+# May 29, 2020 (3)
+ - Fix 403 error with new address
+
 # May 29, 2020 (2)
  - Website address is now https://dodo.ij.rs/
  - Old website will be terminated as soon as possible.
