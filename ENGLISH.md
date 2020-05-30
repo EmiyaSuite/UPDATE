@@ -1,3 +1,10 @@
+# May 30, 2020
+ - Add data source link to footer
+ - Villager's image now download from ACNHCDN.com
+ - Default language is English (US)
+ - Personality type renamed to Personality subtype
+ - Fix Verification email still sending old link
+ 
 # May 29, 2020 (3)
  - Fix 403 error with new address
 
