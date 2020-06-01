@@ -1,3 +1,10 @@
+# June 1, 2020
+## Reset password
+ - You're now able to reset password using your registered email address
+ - Go to resident serivces, click account help station button. enter your email, email with reset password link will send to your emaill address
+ ## Misc.
+ - Fix bug: korean name appear on prefer clothes
+
 # May 31, 2020
  - Description of Villagers has been changed
  - Fix email verification mail send old address
