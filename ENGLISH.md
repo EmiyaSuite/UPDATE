@@ -1,3 +1,8 @@
+# May 31, 2020
+ - Description of Villagers has been changed
+ - Fix email verification mail send old address
+ - Fix typo in administration mode
+
 # May 30, 2020
  - Add data source link to footer
  - Villager's image now download from ACNHCDN.com
